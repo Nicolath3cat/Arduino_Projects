@@ -1,0 +1,9 @@
+int pct    //int potenziometro durata ciclo
+int pit    //int potenziometro durata intervallo tra cicli
+void setup()  {
+
+}
+
+voit loop() {
+
+}
